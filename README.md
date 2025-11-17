@@ -2,16 +2,19 @@ A Special Project by Zhiar Salimi
 
 Predicting Customer Churn Using Statistical Analysis & Logistic Regression
 ===========================================================================
+
 The goal of this project is to analyze the Telco Customer Churn dataset to identify which customer factors such as tenure, monthly charges, 
 and contract type, most strongly predict whether a customer will churn. 
 The project uses Python (Pandas, Matplotlib, Sea Born) to clean data and visualize patterns.=> (To be Updated)
+
 ---------------------------------------------------------------------------
 
-Question:
+Question: 
 
 Which customer factors have the strongest statistical relationship with churn?
 
 Key variables examined:
+
 	•	Tenure
 	•	Monthly Charges
 	•	Contract Type
@@ -39,6 +42,7 @@ Performed using Pandas:
 	•	Removed missing values
 	•	Checked column types + summary statistics
 ---------------------------------------------------------------------------
+
   I created two visualizations to understand churn behavior:
 	
 A. Tenure Distribution by Churn Status
@@ -62,9 +66,10 @@ Finding 2: Customers who churn pay higher monthly charges
 
 Interpretation:
 
-Higher pricing → Higher customer dissatisfaction → Higher churn probability.
+    Higher pricing → Higher customer dissatisfaction → Higher churn probability.
 
 Monthly Charges is another critical predictor.
+
 
 To Be Continued..............
 
